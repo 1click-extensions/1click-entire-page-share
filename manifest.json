@@ -1,7 +1,6 @@
 {
     "name": "__MSG_name__",
     "version": "29.0.0",
-
     "commands": {
         "visible_screenshot": {
             "description": "visible screenshot"
@@ -10,9 +9,7 @@
             "description": "Entire Page Screenshot"
         }
     },
-
-
-    "homepage_url": "https://www.openscreenshot.com",
+    "homepage_url": "https://1ce.org",
     "manifest_version": 2,
     "description": "__MSG_description__",
     "icons": {
@@ -29,15 +26,15 @@
     },
     "web_accessible_resources": [
         "/images/*.png",
-
         "/css/pagestyles.css",
         "/css/dialog.css",
-
         "/libs/gapi.js",
         "/libs/jquery.js",
         "/js/dialog.js"
     ],
-    "offline_enabled":true,
+    "offline_enabled": true,
     "default_locale": "en",
-    "permissions": ["activeTab"]
+    "permissions": [
+        "activeTab"
+    ]
 }
