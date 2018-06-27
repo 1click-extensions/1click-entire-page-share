@@ -11,6 +11,8 @@
 "save" : {"message": "SAVE"},
 "share" : {"message": "SHARE"},
 "wait" : {"message" : "wait"},
+"please_wait_scanning" : {"message" : "Please wait, scanning"},
+"please_wait_uploading" : {"message" : "Please wait, uploading"},
 "cancel" : {"message" : "cancel"},
 "canceled" : {"message" : "Taking capture canceled."},
 "noresize" : {"message" : "No resize"},

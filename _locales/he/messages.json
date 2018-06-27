@@ -15,6 +15,8 @@
 "changeheaders" : {"message" : "הוסף כותרת למעלה ולמטה"},
 "header" : {"message" : "כותרת עליונה"},
 "footer" : {"message" : "כותרת תחתונה"},
+"please_wait_scanning" : {"message" : "אנא המתן, הדף נסרק"},
+"please_wait_uploading" : {"message" : "אנא המתן, התמונה מועלה"},
 "url" : {"message" : "URL"},
 "date" : {"message" : "תאריך"},
 "takecapture" : {"message" : "התחל בפעולה"},

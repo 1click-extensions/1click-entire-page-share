@@ -24,7 +24,8 @@
     },
     "browser_action": {
         "default_icon": "images/browseraction.png",
-        "default_title": "Screenshot Extension"
+        "default_title": "Screenshot Extension",
+        "default_popup": "popup.html"
     },
     "web_accessible_resources": [
         "/images/*.png",
@@ -38,6 +39,5 @@
     ],
     "offline_enabled":true,
     "default_locale": "en",
-    "permissions": ["activeTab"],
-    "optional_permissions": ["desktopCapture" ]
+    "permissions": ["activeTab"]
 }
