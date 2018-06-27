@@ -1,4 +1,4 @@
-# <a href="https://1ce.org/1click-entire-page-share">1CE - </a>
+# <a href="https://1ce.org/1click-entire-page-share">1CE - 1Click Entire Page Share</a>
 
 
 
@@ -32,7 +32,7 @@
 
 ## Installation
 
-The easiet way to install the plugin, is going to [1CE -  website](https://1ce.org/1click-entire-page-share), and then add it to chrome.
+The easiet way to install the plugin, is going to [1CE - 1Click Entire Page Share website](https://1ce.org/1click-entire-page-share), and then add it to chrome.
 
 ## Developing
 
