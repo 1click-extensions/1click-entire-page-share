@@ -85,10 +85,13 @@ var api = {
             if(tabs && tabs[0]){  
               $.extend(screenshot, {
                 callback: function(data){
+                  if(data.length > 1500000){
+                    data = screenshot.canvas.toDataURL('image/jpeg', 0.6);
+                  }
                   uploadImage(data, tabs[0].url, tabs[0].title)
                 },
                 runCallback: true,
-                keepIt: false,
+                keepIt: true,
                 scroll: true,
                 cropData: null,
                 retries: 0,
@@ -117,6 +120,9 @@ function uploadImage(data, url, title){
           data:data,
           service:'share'
         };
+        chrome.runtime.sendMessage({
+          action:'startUpload'
+        });
         //console.log('dataToSend', dataToSend);
           $.ajax({
               url:'https://www.openscreenshot.com/upload3.asp',

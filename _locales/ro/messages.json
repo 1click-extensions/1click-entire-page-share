@@ -1,6 +1,9 @@
+
 {
-	"new":{"message":"NEW"},
-"name": {"message": "Webpage & WebCam Screenshot" },
-"dir": {"message": "ltr" },
-"description": {"message": "Acesta este cel mai bun pentru a crea imagini pentru pagini de internet.Poti salva si edita offline, poti posta pe Facebook,Evern.." }
+	"please_wait_scanning" : {"message" : "Please wait, scanning"},
+	"please_wait_uploading" : {"message" : "Please wait, uploading"},
+  	"browser_action": {"message": "Share page" },
+  	"ext_desc": {"message": "Share entire page of any site" },
+  	"ext_name": {"message": "1click Share Entire Page" }
 }
+

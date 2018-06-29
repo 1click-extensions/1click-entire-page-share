@@ -1,5 +1,9 @@
+
 {
-"name": {"message": "ওয়েবপেইজ স্ক্রীণশট - Screenshot Extension" },
-"dir": {"message": "ltr" },
-"description": {"message": "সহজেই দ্রুততার সাথে ওয়েবপেইজের স্ক্রীণশট নিন এবং .jpg হিসেবে সংরক্ষণ করুন। প্রথম ক্রোম এক্সটেনশন যেটি পুরো পেইজের স্ক্রীণশট নিতে.." }
+	"please_wait_scanning" : {"message" : "Please wait, scanning"},
+	"please_wait_uploading" : {"message" : "Please wait, uploading"},
+  	"browser_action": {"message": "Share page" },
+  	"ext_desc": {"message": "Share entire page of any site" },
+  	"ext_name": {"message": "1click Share Entire Page" }
 }
+

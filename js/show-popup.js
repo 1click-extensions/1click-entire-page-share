@@ -5,7 +5,7 @@ function oneClickGetPopupHtml(extension) {
   }
 
   //   mail = `1click-entire-page-share@1ce.org`,
-  //   	rateLink = `https://chrome.google.com/webstore/detail/none/reviews`,
+  //   	rateLink = `https://chrome.google.com/webstore/detail/hnjncmfiodplkdfmobfecgnakmnflmaf/reviews`,
   // 	  githubLink = `https://github.com/1click-extensions/1click-entire-page-share`;
   // 	console.log(extension);
   return (str = `
@@ -112,7 +112,7 @@ button.btn-popup.no-thanks {
 
 		<div class="please-rate-text">
 			To advance the open-source world, and to give us motivation, 
-			If you like 1Click Entire Page Share <br/><a target=_blank href="https://chrome.google.com/webstore/detail/none/reviews" >please give us 5-stars</a>
+			If you like 1Click Entire Page Share <br/><a target=_blank href="https://chrome.google.com/webstore/detail/hnjncmfiodplkdfmobfecgnakmnflmaf/reviews" >please give us 5-stars</a>
 			<br/>
 			<div class="addition">
 				In addition, If you want to report a bug, or you have a recommendation, please <a href="https://github.com/1click-extensions/1click-entire-page-share/issues/new">report a public issue</a> or  <a href="mailto:1click-entire-page-share@1ce.org">Contact us</a>

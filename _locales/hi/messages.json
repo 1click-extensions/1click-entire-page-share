@@ -1,6 +1,9 @@
+
 {
-	"new":{"message":"NEW"},
-"name": {"message": "Webpage & WebCam Screenshot" },
-"dir": {"message": "ltr" },
-"description": {"message": "यह वेबसाइट्स पर इमेज बनाने के लिए सर्वोत्तम है. आप ओफ़लाइन सेव कर सकते हैं, परिमार्जन कर सकते हैं फेसबुक, एवरनोट, गूगल ड्राइव आदि .." }
+	"please_wait_scanning" : {"message" : "Please wait, scanning"},
+	"please_wait_uploading" : {"message" : "Please wait, uploading"},
+  	"browser_action": {"message": "Share page" },
+  	"ext_desc": {"message": "Share entire page of any site" },
+  	"ext_name": {"message": "1click Share Entire Page" }
 }
+
